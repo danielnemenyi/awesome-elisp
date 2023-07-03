@@ -128,9 +128,9 @@ For a more general index related to all-things Emacs, use [[https://github.com/e
 
     Written by [[#caio-rordrigues-caiorss][Caio Rordrigues (@caiorss)]].
 
-*** (Almost) All You Need to Know About Variables
+*** What you need to know about variables in Emacs
 
-    [[https://with-emacs.com/posts/tutorials/almost-all-you-need-to-know-about-variables/][read online]]
+    [[https://opensource.com/article/20/3/variables-emacs][read online]]
 
     A must read!
 
